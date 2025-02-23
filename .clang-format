@@ -1,0 +1,9 @@
+BasedOnStyle: LLVM
+IndentWidth: 2
+PointerAlignment: Left
+ReferenceAlignment: Pointer
+AlignConsecutiveDeclarations: true
+DerivePointerAlignment: false
+ColumnLimit: 120
+BreakBeforeBraces: Attach
+InsertNewlineAtEOF: true
